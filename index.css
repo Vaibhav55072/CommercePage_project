@@ -226,6 +226,11 @@ body {
    font-family:Poppins;
    color: #17252A
 }
+.auto-type{
+    color:white;
+    font-weight: 50;
+    color: #2b7a78;
+}
 .hr1{
     width: 60%;
     display: block;
