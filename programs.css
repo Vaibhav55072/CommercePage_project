@@ -287,6 +287,12 @@ placeholder {
 .Entrance {
     background-color: #000000;
 }
+h1{
+    color: #2B7A78;
+    margin-left: 650px;
+    padding-top: 10px;
+    font-family: poppins;
+}
 .explore{
     height: 100px;
     width: 100px;
@@ -295,4 +301,19 @@ placeholder {
     position: absolute;
     border-radius: 180px;
     background-color:#DEF2F1;
+}
+.innerimg{
+    margin: 10px;
+    height: 280px;
+    border-radius: 20px;
+}
+.sub_head{
+    display: inline-block;
+    position: absolute;
+    margin-left: -140px;
+    color: white;
+}
+.Examline{
+    width: 60%;
+    margin-left: 480px;
 }
