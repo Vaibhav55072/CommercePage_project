@@ -273,12 +273,26 @@ placeholder {
     position: absolute;
     cursor: pointer;
 }
-.cards{
+
+.cards {
     height: 300px;
-    width: 98%;
+    width: 90%;
     background-color: #17252a;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    display: inline-block;
+    align-items: center;
     border-radius: 10px;
+    margin: 20px;
+}
+
+.Entrance {
+    background-color: #000000;
+}
+.explore{
+    height: 300px;
+    width: 100px;
+    margin-top: 20px;
+    display: inline-block;
+    position: absolute;
+    border-radius: 4px;
+    background-color:#DEF2F1:;
 }
