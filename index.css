@@ -238,3 +238,9 @@ body {
     margin-right: auto;
     color: #9dcecd;
 }
+.note{
+    text-align: center;
+    padding-top: 40px;
+    font-size: 20px;
+    color: #2B7A78;
+}
