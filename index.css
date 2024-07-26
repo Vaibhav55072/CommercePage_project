@@ -212,3 +212,24 @@ body {
     }
 
 }
+.main{
+    height:600px;
+    width: 100%;
+    background-color:#DEF2F1;
+    margin: 1px;
+}
+.main h1{
+    text-align: center;
+    font-size: 90px;
+    text-decoration: none;
+   padding-top: 40px;
+   font-family:Poppins;
+   color: #17252A
+}
+.hr1{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: #9dcecd;
+}
